@@ -7,7 +7,7 @@ body{
     background-attachment: local; 
     /* background-position: right; */
     object-fit: cover;
-     
+    overflow-y:scroll;
    color: white;
    width: 100%;
   
