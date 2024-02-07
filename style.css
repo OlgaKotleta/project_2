@@ -18,13 +18,10 @@ body{
   font-size: 24px;
   font-style: normal;
   font-weight: 400;
-  cursor:  url('./cursor.cur'), auto ;
+  
   
 }
-img {
-	cursor: url('./cursor1.cur'), auto;
 
-}
 /* .background{
   position: absolute;
   z-index: -1;
