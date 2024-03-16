@@ -25,6 +25,23 @@ body{
   position: absolute;
   z-index: -1;
 } */
+@font-face{
+  font-family: "Jura";
+  font-weight: 300;
+  src: local("Jura"),
+  url("./fonts/Jura-Bold.woff2"),
+  format("woff2"),
+  url("./fonts/Jura-Bold.woff"),
+  format("woff"),
+  url("./fonts/Jura-Medium.woff2"),
+  format("woff2"),
+  url("./fonts/Jura-Medium.woff"),
+  format("woff"),
+  url("./fonts/Jura-Light.woff2"),
+  format("woff2"),
+  url("./fonts/Jura-Light.woff"),
+  format("woff"),
+}
 .info{
   position: absolute;
   right: 20%;
